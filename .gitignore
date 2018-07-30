@@ -1,2 +1,8 @@
 # Git Ignore file
 # We will write this one gradually ourselves
+# Ignore 'samiam' folder
+samiam
+# Ignore OSX folder
+**/\.DS_Store
+#Ignore csv files
+**/data/*.csv
