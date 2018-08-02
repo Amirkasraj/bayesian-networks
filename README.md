@@ -5,7 +5,7 @@
 You can draw and export diagrams using [draw.io](https://www.draw.io/)
 
 ***
-# 2018-08-30
+# 2018-07-30
 In folder `2018-07-30` there are some files called `networkXX.md` (XX represents a number). Read them and do as told in them! :smile:
 
 TODO:
