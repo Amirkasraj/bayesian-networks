@@ -4,7 +4,7 @@ Do the following tasks in addition to tasks in [Trello#1397-05-15](https://trell
 1. Modify the file `bayesian_networks.py` so that it contains two classes
     - `bayesian_networks.Full`: makes a complete graph given name of parameters and number of delays, e.g. _a complete graph with `parameters=['Gold','EUR'], lag=1` has `4` nodes and `6` edges._
 
-    <img width="200" alt="Full Graph" src="https://raw.githubusercontent.com/Amirkasraj/bayesian-networks/master/2018-08-06/full.png">
+    <img width="200" alt="Full Graph" src="https://raw.githubusercontent.com/Amirkasraj/bayesian-networks/master/2018-08-06/full_graph.png">
     - `bayesian_networks.Cascade`: makes a complete graph without the target's future and then connect all to it, e.g. _a cascade graph with `target=['Gold'], parameters = ['EUR'], lag = 2` has `5` nodes and `10` edges._
 
     <img width="200" alt="Cascade Graph" src="https://raw.githubusercontent.com/Amirkasraj/bayesian-networks/master/2018-08-06/cascade.png">
